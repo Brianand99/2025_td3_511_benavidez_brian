@@ -32,11 +32,10 @@ void task_led_off(void *params) {
         printf("Tarea LED OFF ejecutándose\n");
         gpio_put(DEFAULT_PIN_LED, false);
 
-
         
         vTaskResume(handle_led_on);   // Reactivo la tarea de prender LED
         vTaskSuspend(NULL);           // Suspendo esta tarea
-        vTaskDelay(pdMS_TO_TICKS(15000));
+        vTaskDelay(pdMS_TO_TICKS(1500));
 
     }
 }
@@ -45,9 +44,9 @@ int main(void) {
     stdio_init_all();
 
     // Crear tarea de inicialización
-    xTaskCreate(task_init, "Init", configMINIMAL_STACK_SIZE, NULL, 2, NULL);
-    xTaskCreate(task_led_on, "LED_ON", configMINIMAL_STACK_SIZE, NULL, 1, &handle_led_on);
-    xTaskCreate(task_led_off, "LED_OFF", configMINIMAL_STACK_SIZE, NULL, 1, &handle_led_off);
+    xTaskCreate(task_init, "Init", 128, NULL, 2, NULL);
+    xTaskCreate(task_led_on, "LED_ON", 128, NULL, 1, &handle_led_on);
+    xTaskCreate(task_led_off, "LED_OFF", 128, NULL, 1, &handle_led_off);
 
     // Arrancar scheduler
     vTaskStartScheduler();
