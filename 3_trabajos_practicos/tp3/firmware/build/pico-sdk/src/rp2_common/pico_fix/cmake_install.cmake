@@ -39,12 +39,12 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp3/firmware/build/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/cmake_install.cmake")
+  include("C:/Users/brian/Desktop/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp3/firmware/build/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/cmake_install.cmake")
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp3/firmware/build/pico-sdk/src/rp2_common/pico_fix/install_local_manifest.txt"
+  file(WRITE "C:/Users/brian/Desktop/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp3/firmware/build/pico-sdk/src/rp2_common/pico_fix/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
