@@ -1,5 +1,5 @@
 
-C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp2/firmware/build/firmware.elf:     file format elf32-littlearm
+C:/Users/brian/Desktop/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp2/firmware/build/firmware.elf:     file format elf32-littlearm
 
 Sections:
 Idx Name          Size      VMA       LMA       File off  Algn
@@ -41,22 +41,22 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, READONLY, DEBUGGING, OCTETS
  18 .debug_abbrev 0000a52f  00000000  00000000  00049364  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 19 .debug_loclists 0001d415  00000000  00000000  00053893  2**0
+ 19 .debug_loclists 0001d421  00000000  00000000  00053893  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 20 .debug_aranges 00001728  00000000  00000000  00070ca8  2**3
+ 20 .debug_aranges 00001728  00000000  00000000  00070cb8  2**3
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 21 .debug_rnglists 00004de6  00000000  00000000  000723d0  2**0
+ 21 .debug_rnglists 00004de6  00000000  00000000  000723e0  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 22 .debug_line   00028b80  00000000  00000000  000771b6  2**0
+ 22 .debug_line   00028a48  00000000  00000000  000771c6  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 23 .debug_str    0000b2a2  00000000  00000000  0009fd36  2**0
+ 23 .debug_str    0000b22a  00000000  00000000  0009fc0e  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 24 .debug_frame  000043ac  00000000  00000000  000aafd8  2**2
+ 24 .debug_frame  000043ac  00000000  00000000  000aae38  2**2
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 25 .debug_line_str 000002d4  00000000  00000000  000af384  2**0
+ 25 .debug_line_str 000002c8  00000000  00000000  000af1e4  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
 
-C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp2/firmware/build/firmware.elf:     file format elf32-littlearm
+C:/Users/brian/Desktop/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp2/firmware/build/firmware.elf:     file format elf32-littlearm
 
 
 Disassembly of section .text:
@@ -380,7 +380,7 @@ Disassembly of section .text:
 10000340:	601e      	str	r6, [r3, #0]
 10000342:	6893      	ldr	r3, [r2, #8]
 10000344:	4c19      	ldr	r4, [pc, #100]	@ (100003ac <main+0x80>)
-10000346:	f083 7380 	eor.w	r3, r3, #16777216	@ 0x1000000
+10000346:	f083 6380 	eor.w	r3, r3, #67108864	@ 0x4000000
 1000034a:	f8df c07c 	ldr.w	ip, [pc, #124]	@ 100003c8 <main+0x9c>
 1000034e:	406b      	eors	r3, r5
 10000350:	4023      	ands	r3, r4

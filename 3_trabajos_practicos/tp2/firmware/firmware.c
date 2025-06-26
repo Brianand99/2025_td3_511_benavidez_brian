@@ -70,16 +70,12 @@ int main()
     adc_set_temp_sensor_enabled(true);
 
 
-    adc_fifo_setup(true, false, 1, false, false);           // Seteo el FIFO del ADC (size 1)
+    adc_fifo_setup(true, false, 4, false, false);           // Seteo el FIFO del ADC (size 1)
 
     adc_irq_set_enabled(true);                              // Habilito irq del adc
     irq_set_exclusive_handler(ADC_IRQ_FIFO, adc_ISR);       // Asocio handler de IRQ del FIFO a la funcion ISR (asociada al core en ejecucion)
     irq_set_enabled(ADC_IRQ_FIFO, true);                    // Habilito IRQ del FIFO (en el core en ejecucion)
-
-
-//    adc_run(true);                                          // ADC en modo free running
-
-    
+  
     q_ADC = xQueueCreate(1, sizeof(uint16_t));              // Creo la cola para la temperatura
 
     xTaskCreate(task_ADC, "ADC", configMINIMAL_STACK_SIZE, NULL, 1, NULL);

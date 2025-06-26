@@ -216,7 +216,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x13 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdlib/stdlib.c.obj
  .debug_line    0x00000000      0x3f3 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdlib/stdlib.c.obj
- .debug_str     0x00000000      0x450 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdlib/stdlib.c.obj
+ .debug_str     0x00000000      0x444 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdlib/stdlib.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdlib/stdlib.c.obj
  .debug_frame   0x00000000       0x28 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdlib/stdlib.c.obj
  .ARM.attributes
@@ -303,7 +303,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x62c CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_gpio/gpio.c.obj
  .debug_line    0x00000000     0x1bb1 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_gpio/gpio.c.obj
- .debug_str     0x00000000      0xd6f CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_gpio/gpio.c.obj
+ .debug_str     0x00000000      0xd63 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_gpio/gpio.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_gpio/gpio.c.obj
  .debug_frame   0x00000000      0x384 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_gpio/gpio.c.obj
  .ARM.attributes
@@ -322,7 +322,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x13 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2350/pico_platform/platform.c.obj
  .debug_line    0x00000000      0x254 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2350/pico_platform/platform.c.obj
- .debug_str     0x00000000      0x24c CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2350/pico_platform/platform.c.obj
+ .debug_str     0x00000000      0x240 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2350/pico_platform/platform.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2350/pico_platform/platform.c.obj
  .debug_frame   0x00000000       0x20 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2350/pico_platform/platform.c.obj
  .ARM.attributes
@@ -422,7 +422,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x172 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_sync/sem.c.obj
  .debug_line    0x00000000      0xa65 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_sync/sem.c.obj
- .debug_str     0x00000000      0x55c CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_sync/sem.c.obj
+ .debug_str     0x00000000      0x550 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_sync/sem.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_sync/sem.c.obj
  .debug_frame   0x00000000       0xf4 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_sync/sem.c.obj
  .ARM.attributes
@@ -515,7 +515,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x5b CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_time/timeout_helper.c.obj
  .debug_line    0x00000000      0x4df CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_time/timeout_helper.c.obj
- .debug_str     0x00000000      0x44d CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_time/timeout_helper.c.obj
+ .debug_str     0x00000000      0x441 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_time/timeout_helper.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_time/timeout_helper.c.obj
  .debug_frame   0x00000000       0x7c CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_time/timeout_helper.c.obj
  .ARM.attributes
@@ -603,7 +603,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x31 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_util/datetime.c.obj
  .debug_line    0x00000000      0x2d9 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_util/datetime.c.obj
- .debug_str     0x00000000      0x2ff CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_util/datetime.c.obj
+ .debug_str     0x00000000      0x2f3 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_util/datetime.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_util/datetime.c.obj
  .debug_frame   0x00000000       0x98 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_util/datetime.c.obj
  .ARM.attributes
@@ -645,7 +645,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x453 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_util/pheap.c.obj
  .debug_line    0x00000000     0x1398 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_util/pheap.c.obj
- .debug_str     0x00000000      0x435 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_util/pheap.c.obj
+ .debug_str     0x00000000      0x429 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_util/pheap.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_util/pheap.c.obj
  .debug_frame   0x00000000      0x1a0 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_util/pheap.c.obj
  .ARM.attributes
@@ -678,7 +678,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x1e8 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_util/queue.c.obj
  .debug_line    0x00000000      0xd3a CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_util/queue.c.obj
- .debug_str     0x00000000      0x4b5 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_util/queue.c.obj
+ .debug_str     0x00000000      0x4a9 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_util/queue.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_util/queue.c.obj
  .debug_frame   0x00000000       0xe4 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_util/queue.c.obj
  .ARM.attributes
@@ -713,7 +713,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x241 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_uart/uart.c.obj
  .debug_line    0x00000000      0xea1 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_uart/uart.c.obj
- .debug_str     0x00000000      0xeac CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_uart/uart.c.obj
+ .debug_str     0x00000000      0xea0 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_uart/uart.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_uart/uart.c.obj
  .debug_frame   0x00000000       0xfc CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_uart/uart.c.obj
  .ARM.attributes
@@ -776,7 +776,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x4c CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_vreg/vreg.c.obj
  .debug_line    0x00000000      0x3ec CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_vreg/vreg.c.obj
- .debug_str     0x00000000      0x760 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_vreg/vreg.c.obj
+ .debug_str     0x00000000      0x754 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_vreg/vreg.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_vreg/vreg.c.obj
  .debug_frame   0x00000000       0x40 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_vreg/vreg.c.obj
  .ARM.attributes
@@ -860,7 +860,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x4f CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_flash/flash.c.obj
  .debug_line    0x00000000      0x489 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_flash/flash.c.obj
- .debug_str     0x00000000      0x8a3 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_flash/flash.c.obj
+ .debug_str     0x00000000      0x897 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_flash/flash.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_flash/flash.c.obj
  .debug_frame   0x00000000       0xbc CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_flash/flash.c.obj
  .ARM.attributes
@@ -882,7 +882,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_divider/divider.c.obj
  .debug_line    0x00000000      0x181 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_divider/divider.c.obj
- .debug_str     0x00000000      0x21f CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_divider/divider.c.obj
+ .debug_str     0x00000000      0x213 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_divider/divider.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_divider/divider.c.obj
  .ARM.attributes
                 0x00000000       0x38 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_divider/divider.c.obj
@@ -911,7 +911,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x13 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj
  .debug_line    0x00000000      0x14e CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj
- .debug_str     0x00000000      0x24c CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj
+ .debug_str     0x00000000      0x240 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj
  .debug_frame   0x00000000       0x20 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj
  .ARM.attributes
@@ -924,12 +924,12 @@ Discarded input sections
  .text.ctzdi    0x00000000       0x18 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
  .debug_line    0x00000000       0x75 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
  .debug_line_str
-                0x00000000       0xbe CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
+                0x00000000       0xb2 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
  .debug_info    0x00000000       0x23 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
  .debug_abbrev  0x00000000       0x12 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
  .debug_aranges
                 0x00000000       0x30 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
- .debug_str     0x00000000       0xcc CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
+ .debug_str     0x00000000       0xc0 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
  .debug_rnglists
                 0x00000000       0x1f CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
  .ARM.attributes
@@ -986,7 +986,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x17e CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_divider/divider_compiler.c.obj
  .debug_line    0x00000000      0x7c0 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_divider/divider_compiler.c.obj
- .debug_str     0x00000000      0x4cf CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_divider/divider_compiler.c.obj
+ .debug_str     0x00000000      0x4c3 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_divider/divider_compiler.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_divider/divider_compiler.c.obj
  .debug_frame   0x00000000      0x1bc CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_divider/divider_compiler.c.obj
  .ARM.attributes
@@ -1067,7 +1067,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x5f8 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_math.c.obj
  .debug_line    0x00000000     0x2c7a CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_math.c.obj
- .debug_str     0x00000000      0x548 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_math.c.obj
+ .debug_str     0x00000000      0x53c CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_math.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_math.c.obj
  .debug_frame   0x00000000      0x538 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_math.c.obj
  .ARM.attributes
@@ -1114,12 +1114,12 @@ Discarded input sections
                 0x00000000       0x6a CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_fma_dcp.S.obj
  .debug_line    0x00000000      0x1f1 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_fma_dcp.S.obj
  .debug_line_str
-                0x00000000       0xbe CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_fma_dcp.S.obj
+                0x00000000       0xb2 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_fma_dcp.S.obj
  .debug_info    0x00000000       0x23 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_fma_dcp.S.obj
  .debug_abbrev  0x00000000       0x12 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_fma_dcp.S.obj
  .debug_aranges
                 0x00000000       0x30 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_fma_dcp.S.obj
- .debug_str     0x00000000       0xcc CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_fma_dcp.S.obj
+ .debug_str     0x00000000       0xc0 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_fma_dcp.S.obj
  .debug_rnglists
                 0x00000000       0x20 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_fma_dcp.S.obj
  .ARM.attributes
@@ -1145,12 +1145,12 @@ Discarded input sections
                 0x00000000      0x320 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_sci_m33.S.obj
  .debug_line    0x00000000      0x4a7 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_sci_m33.S.obj
  .debug_line_str
-                0x00000000       0xbe CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_sci_m33.S.obj
+                0x00000000       0xb2 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_sci_m33.S.obj
  .debug_info    0x00000000       0x23 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_sci_m33.S.obj
  .debug_abbrev  0x00000000       0x12 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_sci_m33.S.obj
  .debug_aranges
                 0x00000000       0x58 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_sci_m33.S.obj
- .debug_str     0x00000000       0xcc CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_sci_m33.S.obj
+ .debug_str     0x00000000       0xc0 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_sci_m33.S.obj
  .debug_rnglists
                 0x00000000       0x41 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_sci_m33.S.obj
  .ARM.attributes
@@ -1170,12 +1170,12 @@ Discarded input sections
                 0x00000000       0x72 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_conv_m33.S.obj
  .debug_line    0x00000000      0x1ca CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_conv_m33.S.obj
  .debug_line_str
-                0x00000000       0xbf CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_conv_m33.S.obj
+                0x00000000       0xb3 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_conv_m33.S.obj
  .debug_info    0x00000000       0x23 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_conv_m33.S.obj
  .debug_abbrev  0x00000000       0x12 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_conv_m33.S.obj
  .debug_aranges
                 0x00000000       0x40 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_conv_m33.S.obj
- .debug_str     0x00000000       0xcd CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_conv_m33.S.obj
+ .debug_str     0x00000000       0xc1 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_conv_m33.S.obj
  .debug_rnglists
                 0x00000000       0x2d CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_conv_m33.S.obj
  .ARM.attributes
@@ -1257,7 +1257,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x426 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_math.c.obj
  .debug_line    0x00000000     0x25b9 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_math.c.obj
- .debug_str     0x00000000      0x508 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_math.c.obj
+ .debug_str     0x00000000      0x4fc CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_math.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_math.c.obj
  .debug_frame   0x00000000      0x404 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_math.c.obj
  .ARM.attributes
@@ -1283,12 +1283,12 @@ Discarded input sections
                 0x00000000       0x18 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_conv32_vfp.S.obj
  .debug_line    0x00000000       0xe1 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_conv32_vfp.S.obj
  .debug_line_str
-                0x00000000       0xbf CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_conv32_vfp.S.obj
+                0x00000000       0xb3 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_conv32_vfp.S.obj
  .debug_info    0x00000000       0x23 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_conv32_vfp.S.obj
  .debug_abbrev  0x00000000       0x12 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_conv32_vfp.S.obj
  .debug_aranges
                 0x00000000       0x58 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_conv32_vfp.S.obj
- .debug_str     0x00000000       0xcd CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_conv32_vfp.S.obj
+ .debug_str     0x00000000       0xc1 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_conv32_vfp.S.obj
  .debug_rnglists
                 0x00000000       0x3d CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_conv32_vfp.S.obj
  .ARM.attributes
@@ -1308,12 +1308,12 @@ Discarded input sections
                 0x00000000       0x68 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_common_m33.S.obj
  .debug_line    0x00000000      0x19e CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_common_m33.S.obj
  .debug_line_str
-                0x00000000       0xbf CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_common_m33.S.obj
+                0x00000000       0xb3 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_common_m33.S.obj
  .debug_info    0x00000000       0x23 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_common_m33.S.obj
  .debug_abbrev  0x00000000       0x12 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_common_m33.S.obj
  .debug_aranges
                 0x00000000       0x40 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_common_m33.S.obj
- .debug_str     0x00000000       0xcd CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_common_m33.S.obj
+ .debug_str     0x00000000       0xc1 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_common_m33.S.obj
  .debug_rnglists
                 0x00000000       0x2d CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_common_m33.S.obj
  .ARM.attributes
@@ -1335,12 +1335,12 @@ Discarded input sections
                 0x00000000      0x2cc CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_sci_m33_vfp.S.obj
  .debug_line    0x00000000      0x263 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_sci_m33_vfp.S.obj
  .debug_line_str
-                0x00000000       0xc0 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_sci_m33_vfp.S.obj
+                0x00000000       0xb4 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_sci_m33_vfp.S.obj
  .debug_info    0x00000000       0x23 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_sci_m33_vfp.S.obj
  .debug_abbrev  0x00000000       0x12 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_sci_m33_vfp.S.obj
  .debug_aranges
                 0x00000000       0x48 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_sci_m33_vfp.S.obj
- .debug_str     0x00000000       0xce CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_sci_m33_vfp.S.obj
+ .debug_str     0x00000000       0xc2 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_sci_m33_vfp.S.obj
  .debug_rnglists
                 0x00000000       0x35 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_float/float_sci_m33_vfp.S.obj
  .ARM.attributes
@@ -1394,7 +1394,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x283 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_atomic/atomic.c.obj
  .debug_line    0x00000000     0x11a1 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_atomic/atomic.c.obj
- .debug_str     0x00000000      0x515 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_atomic/atomic.c.obj
+ .debug_str     0x00000000      0x509 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_atomic/atomic.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_atomic/atomic.c.obj
  .debug_frame   0x00000000      0x1bc CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_atomic/atomic.c.obj
  .ARM.attributes
@@ -1417,7 +1417,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x31 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_cxx_options/new_delete.cpp.obj
  .debug_line    0x00000000      0x27a CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_cxx_options/new_delete.cpp.obj
- .debug_str     0x00000000      0x3d2 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_cxx_options/new_delete.cpp.obj
+ .debug_str     0x00000000      0x3c6 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_cxx_options/new_delete.cpp.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_cxx_options/new_delete.cpp.obj
  .debug_frame   0x00000000       0x70 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_cxx_options/new_delete.cpp.obj
  .ARM.attributes
@@ -1559,7 +1559,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x186 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_flash/flash.c.obj
  .debug_line    0x00000000      0xe21 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_flash/flash.c.obj
- .debug_str     0x00000000      0x8e4 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_flash/flash.c.obj
+ .debug_str     0x00000000      0x8d8 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_flash/flash.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_flash/flash.c.obj
  .debug_frame   0x00000000      0x1f4 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_flash/flash.c.obj
  .ARM.attributes
@@ -1588,7 +1588,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x31 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_xip_cache/xip_cache.c.obj
  .debug_line    0x00000000      0x346 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_xip_cache/xip_cache.c.obj
- .debug_str     0x00000000      0x38e CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_xip_cache/xip_cache.c.obj
+ .debug_str     0x00000000      0x382 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_xip_cache/xip_cache.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_xip_cache/xip_cache.c.obj
  .debug_frame   0x00000000       0x70 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_xip_cache/xip_cache.c.obj
  .ARM.attributes
@@ -1687,7 +1687,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/audio/audio_device.c.obj
  .debug_line    0x00000000       0x6e CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/audio/audio_device.c.obj
- .debug_str     0x00000000      0x1e9 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/audio/audio_device.c.obj
+ .debug_str     0x00000000      0x1dd CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/audio/audio_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/audio/audio_device.c.obj
  .ARM.attributes
                 0x00000000       0x38 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/audio/audio_device.c.obj
@@ -1718,7 +1718,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/dfu/dfu_device.c.obj
  .debug_line    0x00000000       0x6a CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/dfu/dfu_device.c.obj
- .debug_str     0x00000000      0x1e5 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/dfu/dfu_device.c.obj
+ .debug_str     0x00000000      0x1d9 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/dfu/dfu_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/dfu/dfu_device.c.obj
  .ARM.attributes
                 0x00000000       0x38 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/dfu/dfu_device.c.obj
@@ -1730,7 +1730,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
  .debug_line    0x00000000       0x6d CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
- .debug_str     0x00000000      0x1e8 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
+ .debug_str     0x00000000      0x1dc CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
  .ARM.attributes
                 0x00000000       0x38 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
@@ -1742,7 +1742,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/hid/hid_device.c.obj
  .debug_line    0x00000000       0x6a CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/hid/hid_device.c.obj
- .debug_str     0x00000000      0x1e5 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/hid/hid_device.c.obj
+ .debug_str     0x00000000      0x1d9 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/hid/hid_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/hid/hid_device.c.obj
  .ARM.attributes
                 0x00000000       0x38 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/hid/hid_device.c.obj
@@ -1754,7 +1754,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/midi/midi_device.c.obj
  .debug_line    0x00000000       0x6c CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/midi/midi_device.c.obj
- .debug_str     0x00000000      0x1e7 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/midi/midi_device.c.obj
+ .debug_str     0x00000000      0x1db CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/midi/midi_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/midi/midi_device.c.obj
  .ARM.attributes
                 0x00000000       0x38 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/midi/midi_device.c.obj
@@ -1766,7 +1766,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/msc/msc_device.c.obj
  .debug_line    0x00000000       0x6a CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/msc/msc_device.c.obj
- .debug_str     0x00000000      0x1e5 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/msc/msc_device.c.obj
+ .debug_str     0x00000000      0x1d9 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/msc/msc_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/msc/msc_device.c.obj
  .ARM.attributes
                 0x00000000       0x38 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/msc/msc_device.c.obj
@@ -1778,7 +1778,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
  .debug_line    0x00000000       0x70 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
- .debug_str     0x00000000      0x1eb CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
+ .debug_str     0x00000000      0x1df CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
  .ARM.attributes
                 0x00000000       0x38 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
@@ -1790,7 +1790,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/net/ncm_device.c.obj
  .debug_line    0x00000000       0x6a CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/net/ncm_device.c.obj
- .debug_str     0x00000000      0x1e5 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/net/ncm_device.c.obj
+ .debug_str     0x00000000      0x1d9 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/net/ncm_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/net/ncm_device.c.obj
  .ARM.attributes
                 0x00000000       0x38 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/net/ncm_device.c.obj
@@ -1802,7 +1802,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
  .debug_line    0x00000000       0x70 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
- .debug_str     0x00000000      0x1eb CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
+ .debug_str     0x00000000      0x1df CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
  .ARM.attributes
                 0x00000000       0x38 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
@@ -1833,7 +1833,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/video/video_device.c.obj
  .debug_line    0x00000000       0x6e CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/video/video_device.c.obj
- .debug_str     0x00000000      0x1e9 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/video/video_device.c.obj
+ .debug_str     0x00000000      0x1dd CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/video/video_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/video/video_device.c.obj
  .ARM.attributes
                 0x00000000       0x38 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/video/video_device.c.obj
@@ -1881,23 +1881,23 @@ Discarded input sections
                 0x00000000       0xdc CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/common/tusb_fifo.c.obj
  .text.tu_fifo_get_write_info
                 0x00000000       0x70 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/common/tusb_fifo.c.obj
- .text          0x00000000        0x0 CMakeFiles/firmware.dir/5111a096d474f50c1a56c6481ade8dde/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
- .data          0x00000000        0x0 CMakeFiles/firmware.dir/5111a096d474f50c1a56c6481ade8dde/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
- .bss           0x00000000        0x0 CMakeFiles/firmware.dir/5111a096d474f50c1a56c6481ade8dde/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+ .text          0x00000000        0x0 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+ .data          0x00000000        0x0 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .text.rp2040_usb_device_enumeration_fix
-                0x00000000        0x4 CMakeFiles/firmware.dir/5111a096d474f50c1a56c6481ade8dde/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
- .debug_info    0x00000000       0x8d CMakeFiles/firmware.dir/5111a096d474f50c1a56c6481ade8dde/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
- .debug_abbrev  0x00000000       0x43 CMakeFiles/firmware.dir/5111a096d474f50c1a56c6481ade8dde/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+                0x00000000        0x4 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+ .debug_info    0x00000000       0x8d CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+ .debug_abbrev  0x00000000       0x43 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .debug_aranges
-                0x00000000       0x20 CMakeFiles/firmware.dir/5111a096d474f50c1a56c6481ade8dde/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+                0x00000000       0x20 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .debug_rnglists
-                0x00000000       0x13 CMakeFiles/firmware.dir/5111a096d474f50c1a56c6481ade8dde/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
- .debug_line    0x00000000      0x13b CMakeFiles/firmware.dir/5111a096d474f50c1a56c6481ade8dde/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
- .debug_str     0x00000000      0x23c CMakeFiles/firmware.dir/5111a096d474f50c1a56c6481ade8dde/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
- .comment       0x00000000       0x46 CMakeFiles/firmware.dir/5111a096d474f50c1a56c6481ade8dde/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
- .debug_frame   0x00000000       0x20 CMakeFiles/firmware.dir/5111a096d474f50c1a56c6481ade8dde/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+                0x00000000       0x13 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+ .debug_line    0x00000000      0x13b CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+ .debug_str     0x00000000      0x230 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+ .comment       0x00000000       0x46 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+ .debug_frame   0x00000000       0x20 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .ARM.attributes
-                0x00000000       0x38 CMakeFiles/firmware.dir/5111a096d474f50c1a56c6481ade8dde/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+                0x00000000       0x38 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .text          0x00000000        0x0 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_adc/adc.c.obj
  .data          0x00000000        0x0 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_adc/adc.c.obj
  .bss           0x00000000        0x0 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_adc/adc.c.obj
@@ -4407,7 +4407,7 @@ LOAD CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/
 LOAD CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/video/video_device.c.obj
 LOAD CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/tusb.c.obj
 LOAD CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/common/tusb_fifo.c.obj
-LOAD CMakeFiles/firmware.dir/5111a096d474f50c1a56c6481ade8dde/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+LOAD CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
 LOAD CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_adc/adc.c.obj
 LOAD CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_exception/exception.c.obj
 LOAD pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/./bs2_default_padded_checksummed.S.obj
@@ -4740,99 +4740,99 @@ LOAD linker stubs
  .debug_abbrev  0x0000a41b      0x114 freertos/libfreertos.a(list.c.obj)
 
 .debug_loclists
-                0x00000000    0x1d415
+                0x00000000    0x1d421
  .debug_loclists
-                0x00000000      0x1d5 CMakeFiles/firmware.dir/firmware.c.obj
+                0x00000000      0x1e1 CMakeFiles/firmware.dir/firmware.c.obj
  .debug_loclists
-                0x000001d5      0x42d CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/hardware_claim/claim.c.obj
+                0x000001e1      0x42d CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/hardware_claim/claim.c.obj
  .debug_loclists
-                0x00000602      0x132 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_sync/sync.c.obj
+                0x0000060e      0x132 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_sync/sync.c.obj
  .debug_loclists
-                0x00000734       0xa2 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj
+                0x00000740       0xa2 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj
  .debug_loclists
-                0x000007d6     0x1034 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_irq/irq.c.obj
+                0x000007e2     0x1034 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_irq/irq.c.obj
  .debug_loclists
-                0x0000180a       0x17 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_sync/lock_core.c.obj
+                0x00001816       0x17 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_sync/lock_core.c.obj
  .debug_loclists
-                0x00001821      0xae7 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_sync/mutex.c.obj
+                0x0000182d      0xae7 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_sync/mutex.c.obj
  .debug_loclists
-                0x00002308       0x8c CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_sync/critical_section.c.obj
+                0x00002314       0x8c CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_sync/critical_section.c.obj
  .debug_loclists
-                0x00002394     0x2c57 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_time/time.c.obj
+                0x000023a0     0x2c57 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_time/time.c.obj
  .debug_loclists
-                0x00004feb     0x1a3f CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_timer/timer.c.obj
+                0x00004ff7     0x1a3f CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_timer/timer.c.obj
  .debug_loclists
-                0x00006a2a     0x204d CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_clocks/clocks.c.obj
+                0x00006a36     0x204d CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_clocks/clocks.c.obj
  .debug_loclists
-                0x00008a77      0x1b7 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_pll/pll.c.obj
+                0x00008a83      0x1b7 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_pll/pll.c.obj
  .debug_loclists
-                0x00008c2e      0x533 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_watchdog/watchdog.c.obj
+                0x00008c3a      0x533 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_watchdog/watchdog.c.obj
  .debug_loclists
-                0x00009161       0x8b CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_ticks/ticks.c.obj
+                0x0000916d       0x8b CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_ticks/ticks.c.obj
  .debug_loclists
-                0x000091ec      0x49b CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bootrom/bootrom.c.obj
+                0x000091f8      0x49b CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bootrom/bootrom.c.obj
  .debug_loclists
-                0x00009687       0x28 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bootrom/bootrom_lock.c.obj
+                0x00009693       0x28 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bootrom/bootrom_lock.c.obj
  .debug_loclists
-                0x000096af       0x78 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_boot_lock/boot_lock.c.obj
+                0x000096bb       0x78 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_boot_lock/boot_lock.c.obj
  .debug_loclists
-                0x00009727       0x48 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_xosc/xosc.c.obj
+                0x00009733       0x48 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_xosc/xosc.c.obj
  .debug_loclists
-                0x0000976f       0x7e CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime/runtime.c.obj
+                0x0000977b       0x7e CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime/runtime.c.obj
  .debug_loclists
-                0x000097ed      0x10a CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init.c.obj
+                0x000097f9      0x10a CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init.c.obj
  .debug_loclists
-                0x000098f7       0x74 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj
+                0x00009903       0x74 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj
  .debug_loclists
-                0x0000996b      0x14b CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_malloc/malloc.c.obj
+                0x00009977      0x14b CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_malloc/malloc.c.obj
  .debug_loclists
-                0x00009ab6     0x2e21 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_printf/printf.c.obj
+                0x00009ac2     0x2e21 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_printf/printf.c.obj
  .debug_loclists
-                0x0000c8d7      0x408 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_clib_interface/newlib_interface.c.obj
+                0x0000c8e3      0x408 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_clib_interface/newlib_interface.c.obj
  .debug_loclists
-                0x0000ccdf      0xb26 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio/stdio.c.obj
+                0x0000cceb      0xb26 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio/stdio.c.obj
  .debug_loclists
-                0x0000d805      0x256 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+                0x0000d811      0x256 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
  .debug_loclists
-                0x0000da5b      0x6ae CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x0000da67      0x6ae CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
  .debug_loclists
-                0x0000e109       0xfb CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+                0x0000e115       0xfb CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
  .debug_loclists
-                0x0000e204      0x38d CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_unique_id/unique_id.c.obj
+                0x0000e210      0x38d CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_unique_id/unique_id.c.obj
  .debug_loclists
-                0x0000e591     0x1ee6 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x0000e59d     0x1ee6 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
  .debug_loclists
-                0x00010477      0x632 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
+                0x00010483      0x632 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
  .debug_loclists
-                0x00010aa9     0x21e7 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/device/usbd.c.obj
+                0x00010ab5     0x21e7 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/device/usbd.c.obj
  .debug_loclists
-                0x00012c90      0x499 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/device/usbd_control.c.obj
+                0x00012c9c      0x499 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/device/usbd_control.c.obj
  .debug_loclists
-                0x00013129      0xef5 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                0x00013135      0xef5 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/cdc/cdc_device.c.obj
  .debug_loclists
-                0x0001401e      0x756 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/vendor/vendor_device.c.obj
+                0x0001402a      0x756 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/vendor/vendor_device.c.obj
  .debug_loclists
-                0x00014774      0xed1 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/tusb.c.obj
+                0x00014780      0xed1 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/tusb.c.obj
  .debug_loclists
-                0x00015645     0x1bd4 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/common/tusb_fifo.c.obj
+                0x00015651     0x1bd4 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/common/tusb_fifo.c.obj
  .debug_loclists
-                0x00017219       0x98 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_adc/adc.c.obj
+                0x00017225       0x98 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_adc/adc.c.obj
  .debug_loclists
-                0x000172b1      0x24f CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_exception/exception.c.obj
+                0x000172bd      0x24f CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_exception/exception.c.obj
  .debug_loclists
-                0x00017500     0x1a07 freertos/libfreertos.a(queue.c.obj)
+                0x0001750c     0x1a07 freertos/libfreertos.a(queue.c.obj)
  .debug_loclists
-                0x00018f07     0x250e freertos/libfreertos.a(tasks.c.obj)
+                0x00018f13     0x250e freertos/libfreertos.a(tasks.c.obj)
  .debug_loclists
-                0x0001b415      0xe8e freertos/libfreertos.a(timers.c.obj)
+                0x0001b421      0xe8e freertos/libfreertos.a(timers.c.obj)
  .debug_loclists
-                0x0001c2a3       0x6f freertos/libfreertos.a(heap_3.c.obj)
+                0x0001c2af       0x6f freertos/libfreertos.a(heap_3.c.obj)
  .debug_loclists
-                0x0001c312      0x711 freertos/libfreertos.a(port.c.obj)
+                0x0001c31e      0x711 freertos/libfreertos.a(port.c.obj)
  .debug_loclists
-                0x0001ca23      0x988 freertos/libfreertos.a(event_groups.c.obj)
+                0x0001ca2f      0x988 freertos/libfreertos.a(event_groups.c.obj)
  .debug_loclists
-                0x0001d3ab       0x6a freertos/libfreertos.a(list.c.obj)
+                0x0001d3b7       0x6a freertos/libfreertos.a(list.c.obj)
 
 .debug_aranges  0x00000000     0x1728
  .debug_aranges
@@ -5041,112 +5041,112 @@ LOAD linker stubs
  .debug_rnglists
                 0x00004dbb       0x2b freertos/libfreertos.a(list.c.obj)
 
-.debug_line     0x00000000    0x28b80
- .debug_line    0x00000000      0x8f6 CMakeFiles/firmware.dir/firmware.c.obj
- .debug_line    0x000008f6      0x285 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_platform_panic/panic.c.obj
- .debug_line    0x00000b7b      0x810 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/hardware_claim/claim.c.obj
- .debug_line    0x0000138b      0x424 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_sync/sync.c.obj
- .debug_line    0x000017af      0x3a4 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj
- .debug_line    0x00001b53     0x1708 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_irq/irq.c.obj
- .debug_line    0x0000325b      0x270 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_sync/lock_core.c.obj
- .debug_line    0x000034cb     0x1280 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_sync/mutex.c.obj
- .debug_line    0x0000474b      0x3c0 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_sync/critical_section.c.obj
- .debug_line    0x00004b0b     0x315e CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_time/time.c.obj
- .debug_line    0x00007c69     0x1d68 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_timer/timer.c.obj
- .debug_line    0x000099d1     0x1e69 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_clocks/clocks.c.obj
- .debug_line    0x0000b83a      0x4d9 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_pll/pll.c.obj
- .debug_line    0x0000bd13      0x9ca CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_watchdog/watchdog.c.obj
- .debug_line    0x0000c6dd      0x33a CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_ticks/ticks.c.obj
- .debug_line    0x0000ca17      0x690 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bootrom/bootrom.c.obj
- .debug_line    0x0000d0a7      0x3ad CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bootrom/bootrom_lock.c.obj
- .debug_line    0x0000d454      0x427 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_boot_lock/boot_lock.c.obj
- .debug_line    0x0000d87b      0x35c CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_xosc/xosc.c.obj
- .debug_line    0x0000dbd7      0x319 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime/runtime.c.obj
- .debug_line    0x0000def0      0x5dc CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init.c.obj
- .debug_line    0x0000e4cc      0x580 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj
- .debug_line    0x0000ea4c      0x28f CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_aeabi_dcp.S.obj
- .debug_line    0x0000ecdb      0x296 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_malloc/malloc.c.obj
- .debug_line    0x0000ef71      0x1f5 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj
- .debug_line    0x0000f166     0x1bb6 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_printf/printf.c.obj
- .debug_line    0x00010d1c       0xa1 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_crt0/crt0.S.obj
- .debug_line    0x00010dbd      0x830 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_clib_interface/newlib_interface.c.obj
- .debug_line    0x000115ed     0x152b CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio/stdio.c.obj
- .debug_line    0x00012b18      0x50e CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
- .debug_line    0x00013026     0x1143 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
- .debug_line    0x00014169      0x3bf CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
- .debug_line    0x00014528      0x73e CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_unique_id/unique_id.c.obj
- .debug_line    0x00014c66     0x1ea6 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
- .debug_line    0x00016b0c      0xc60 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
- .debug_line    0x0001776c     0x26ac CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/device/usbd.c.obj
- .debug_line    0x00019e18      0x73b CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/device/usbd_control.c.obj
- .debug_line    0x0001a553     0x1070 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/cdc/cdc_device.c.obj
- .debug_line    0x0001b5c3      0xa66 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/vendor/vendor_device.c.obj
- .debug_line    0x0001c029     0x1342 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/tusb.c.obj
- .debug_line    0x0001d36b     0x18fe CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/common/tusb_fifo.c.obj
- .debug_line    0x0001ec69      0x3ef CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_adc/adc.c.obj
- .debug_line    0x0001f058      0x592 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_exception/exception.c.obj
- .debug_line    0x0001f5ea     0x2946 freertos/libfreertos.a(queue.c.obj)
- .debug_line    0x00021f30     0x366c freertos/libfreertos.a(tasks.c.obj)
- .debug_line    0x0002559c      0xea3 freertos/libfreertos.a(timers.c.obj)
- .debug_line    0x0002643f      0x2d7 freertos/libfreertos.a(heap_3.c.obj)
- .debug_line    0x00026716     0x1322 freertos/libfreertos.a(port.c.obj)
- .debug_line    0x00027a38      0x2ef freertos/libfreertos.a(portasm.c.obj)
- .debug_line    0x00027d27      0xa08 freertos/libfreertos.a(event_groups.c.obj)
- .debug_line    0x0002872f      0x451 freertos/libfreertos.a(list.c.obj)
+.debug_line     0x00000000    0x28a48
+ .debug_line    0x00000000      0x8d2 CMakeFiles/firmware.dir/firmware.c.obj
+ .debug_line    0x000008d2      0x285 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_platform_panic/panic.c.obj
+ .debug_line    0x00000b57      0x810 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/hardware_claim/claim.c.obj
+ .debug_line    0x00001367      0x424 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_sync/sync.c.obj
+ .debug_line    0x0000178b      0x3a4 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj
+ .debug_line    0x00001b2f     0x1708 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_irq/irq.c.obj
+ .debug_line    0x00003237      0x270 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_sync/lock_core.c.obj
+ .debug_line    0x000034a7     0x1280 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_sync/mutex.c.obj
+ .debug_line    0x00004727      0x3c0 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_sync/critical_section.c.obj
+ .debug_line    0x00004ae7     0x315e CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_time/time.c.obj
+ .debug_line    0x00007c45     0x1d68 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_timer/timer.c.obj
+ .debug_line    0x000099ad     0x1e69 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_clocks/clocks.c.obj
+ .debug_line    0x0000b816      0x4d9 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_pll/pll.c.obj
+ .debug_line    0x0000bcef      0x9ca CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_watchdog/watchdog.c.obj
+ .debug_line    0x0000c6b9      0x33a CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_ticks/ticks.c.obj
+ .debug_line    0x0000c9f3      0x690 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bootrom/bootrom.c.obj
+ .debug_line    0x0000d083      0x3ad CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bootrom/bootrom_lock.c.obj
+ .debug_line    0x0000d430      0x427 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_boot_lock/boot_lock.c.obj
+ .debug_line    0x0000d857      0x35c CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_xosc/xosc.c.obj
+ .debug_line    0x0000dbb3      0x319 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime/runtime.c.obj
+ .debug_line    0x0000decc      0x5dc CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init.c.obj
+ .debug_line    0x0000e4a8      0x580 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj
+ .debug_line    0x0000ea28      0x28f CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_aeabi_dcp.S.obj
+ .debug_line    0x0000ecb7      0x296 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_malloc/malloc.c.obj
+ .debug_line    0x0000ef4d      0x1f5 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj
+ .debug_line    0x0000f142     0x1bb6 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_printf/printf.c.obj
+ .debug_line    0x00010cf8       0xa1 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_crt0/crt0.S.obj
+ .debug_line    0x00010d99      0x830 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_clib_interface/newlib_interface.c.obj
+ .debug_line    0x000115c9     0x152b CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio/stdio.c.obj
+ .debug_line    0x00012af4      0x50e CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+ .debug_line    0x00013002     0x1143 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+ .debug_line    0x00014145      0x3bf CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+ .debug_line    0x00014504      0x73e CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_unique_id/unique_id.c.obj
+ .debug_line    0x00014c42     0x1ea6 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+ .debug_line    0x00016ae8      0xc60 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
+ .debug_line    0x00017748     0x26ac CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/device/usbd.c.obj
+ .debug_line    0x00019df4      0x73b CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/device/usbd_control.c.obj
+ .debug_line    0x0001a52f     0x1070 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+ .debug_line    0x0001b59f      0xa66 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/vendor/vendor_device.c.obj
+ .debug_line    0x0001c005     0x1342 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/tusb.c.obj
+ .debug_line    0x0001d347     0x18fe CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/common/tusb_fifo.c.obj
+ .debug_line    0x0001ec45      0x3ef CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_adc/adc.c.obj
+ .debug_line    0x0001f034      0x592 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_exception/exception.c.obj
+ .debug_line    0x0001f5c6     0x2922 freertos/libfreertos.a(queue.c.obj)
+ .debug_line    0x00021ee8     0x3648 freertos/libfreertos.a(tasks.c.obj)
+ .debug_line    0x00025530      0xe7f freertos/libfreertos.a(timers.c.obj)
+ .debug_line    0x000263af      0x2b3 freertos/libfreertos.a(heap_3.c.obj)
+ .debug_line    0x00026662     0x12fe freertos/libfreertos.a(port.c.obj)
+ .debug_line    0x00027960      0x2d7 freertos/libfreertos.a(portasm.c.obj)
+ .debug_line    0x00027c37      0x9e4 freertos/libfreertos.a(event_groups.c.obj)
+ .debug_line    0x0002861b      0x42d freertos/libfreertos.a(list.c.obj)
 
-.debug_str      0x00000000     0xb2a2
- .debug_str     0x00000000     0xb2a2 CMakeFiles/firmware.dir/firmware.c.obj
-                                0xba8 (size before relaxing)
- .debug_str     0x0000b2a2      0x253 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_platform_panic/panic.c.obj
- .debug_str     0x0000b2a2      0x3c5 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/hardware_claim/claim.c.obj
- .debug_str     0x0000b2a2      0x370 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_sync/sync.c.obj
- .debug_str     0x0000b2a2      0xc1d CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj
- .debug_str     0x0000b2a2      0xc8a CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_irq/irq.c.obj
- .debug_str     0x0000b2a2      0x262 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_sync/lock_core.c.obj
- .debug_str     0x0000b2a2      0x936 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_sync/mutex.c.obj
- .debug_str     0x0000b2a2      0x336 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_sync/critical_section.c.obj
- .debug_str     0x0000b2a2     0x1352 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_time/time.c.obj
- .debug_str     0x0000b2a2      0xbf0 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_timer/timer.c.obj
- .debug_str     0x0000b2a2      0xbb1 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_clocks/clocks.c.obj
- .debug_str     0x0000b2a2      0x4e9 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_pll/pll.c.obj
- .debug_str     0x0000b2a2      0x76b CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_watchdog/watchdog.c.obj
- .debug_str     0x0000b2a2      0x316 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_ticks/ticks.c.obj
- .debug_str     0x0000b2a2      0x707 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bootrom/bootrom.c.obj
- .debug_str     0x0000b2a2      0x2fe CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bootrom/bootrom_lock.c.obj
- .debug_str     0x0000b2a2      0x2dc CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_boot_lock/boot_lock.c.obj
- .debug_str     0x0000b2a2      0x28f CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_xosc/xosc.c.obj
- .debug_str     0x0000b2a2      0x2e5 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime/runtime.c.obj
- .debug_str     0x0000b2a2     0x122a CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init.c.obj
- .debug_str     0x0000b2a2      0x531 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj
- .debug_str     0x0000b2a2       0xce CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_aeabi_dcp.S.obj
- .debug_str     0x0000b2a2      0x28b CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_malloc/malloc.c.obj
- .debug_str     0x0000b2a2      0x48e CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj
- .debug_str     0x0000b2a2      0x4fb CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_printf/printf.c.obj
- .debug_str     0x0000b2a2       0xc0 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_crt0/crt0.S.obj
- .debug_str     0x0000b2a2      0x8d1 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_clib_interface/newlib_interface.c.obj
- .debug_str     0x0000b2a2      0xca3 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio/stdio.c.obj
- .debug_str     0x0000b2a2      0xfab CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
- .debug_str     0x0000b2a2     0x1076 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
- .debug_str     0x0000b2a2     0x114d CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
- .debug_str     0x0000b2a2      0x2e1 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_unique_id/unique_id.c.obj
- .debug_str     0x0000b2a2     0x141f CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
- .debug_str     0x0000b2a2      0xc16 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
- .debug_str     0x0000b2a2     0x1cb3 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/device/usbd.c.obj
- .debug_str     0x0000b2a2      0x841 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/device/usbd_control.c.obj
- .debug_str     0x0000b2a2     0x18c0 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/cdc/cdc_device.c.obj
- .debug_str     0x0000b2a2      0xfae CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/vendor/vendor_device.c.obj
- .debug_str     0x0000b2a2      0xf8a CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/tusb.c.obj
- .debug_str     0x0000b2a2      0x673 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/common/tusb_fifo.c.obj
- .debug_str     0x0000b2a2      0x49d CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_adc/adc.c.obj
- .debug_str     0x0000b2a2      0x5b4 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_exception/exception.c.obj
- .debug_str     0x0000b2a2      0xb5c freertos/libfreertos.a(queue.c.obj)
- .debug_str     0x0000b2a2     0x11a6 freertos/libfreertos.a(tasks.c.obj)
- .debug_str     0x0000b2a2      0xa58 freertos/libfreertos.a(timers.c.obj)
- .debug_str     0x0000b2a2      0x28c freertos/libfreertos.a(heap_3.c.obj)
- .debug_str     0x0000b2a2     0x1209 freertos/libfreertos.a(port.c.obj)
- .debug_str     0x0000b2a2      0x2e6 freertos/libfreertos.a(portasm.c.obj)
- .debug_str     0x0000b2a2      0x67d freertos/libfreertos.a(event_groups.c.obj)
- .debug_str     0x0000b2a2      0x363 freertos/libfreertos.a(list.c.obj)
+.debug_str      0x00000000     0xb22a
+ .debug_str     0x00000000     0xb22a CMakeFiles/firmware.dir/firmware.c.obj
+                                0xb90 (size before relaxing)
+ .debug_str     0x0000b22a      0x247 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_platform_panic/panic.c.obj
+ .debug_str     0x0000b22a      0x3b9 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/hardware_claim/claim.c.obj
+ .debug_str     0x0000b22a      0x364 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_sync/sync.c.obj
+ .debug_str     0x0000b22a      0xc11 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj
+ .debug_str     0x0000b22a      0xc7e CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_irq/irq.c.obj
+ .debug_str     0x0000b22a      0x256 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_sync/lock_core.c.obj
+ .debug_str     0x0000b22a      0x92a CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_sync/mutex.c.obj
+ .debug_str     0x0000b22a      0x32a CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_sync/critical_section.c.obj
+ .debug_str     0x0000b22a     0x1346 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/common/pico_time/time.c.obj
+ .debug_str     0x0000b22a      0xbe4 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_timer/timer.c.obj
+ .debug_str     0x0000b22a      0xba5 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_clocks/clocks.c.obj
+ .debug_str     0x0000b22a      0x4dd CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_pll/pll.c.obj
+ .debug_str     0x0000b22a      0x75f CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_watchdog/watchdog.c.obj
+ .debug_str     0x0000b22a      0x30a CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_ticks/ticks.c.obj
+ .debug_str     0x0000b22a      0x6fb CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bootrom/bootrom.c.obj
+ .debug_str     0x0000b22a      0x2f2 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_bootrom/bootrom_lock.c.obj
+ .debug_str     0x0000b22a      0x2d0 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_boot_lock/boot_lock.c.obj
+ .debug_str     0x0000b22a      0x283 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_xosc/xosc.c.obj
+ .debug_str     0x0000b22a      0x2d9 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime/runtime.c.obj
+ .debug_str     0x0000b22a     0x121e CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init.c.obj
+ .debug_str     0x0000b22a      0x525 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj
+ .debug_str     0x0000b22a       0xc2 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_aeabi_dcp.S.obj
+ .debug_str     0x0000b22a      0x27f CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_malloc/malloc.c.obj
+ .debug_str     0x0000b22a      0x482 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj
+ .debug_str     0x0000b22a      0x4ef CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_printf/printf.c.obj
+ .debug_str     0x0000b22a       0xb4 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_crt0/crt0.S.obj
+ .debug_str     0x0000b22a      0x8c5 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_clib_interface/newlib_interface.c.obj
+ .debug_str     0x0000b22a      0xc97 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio/stdio.c.obj
+ .debug_str     0x0000b22a      0xf9f CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+ .debug_str     0x0000b22a     0x106a CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+ .debug_str     0x0000b22a     0x1141 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+ .debug_str     0x0000b22a      0x2d5 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_unique_id/unique_id.c.obj
+ .debug_str     0x0000b22a     0x1413 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+ .debug_str     0x0000b22a      0xc0a CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
+ .debug_str     0x0000b22a     0x1ca7 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/device/usbd.c.obj
+ .debug_str     0x0000b22a      0x835 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/device/usbd_control.c.obj
+ .debug_str     0x0000b22a     0x18b4 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+ .debug_str     0x0000b22a      0xfa2 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/class/vendor/vendor_device.c.obj
+ .debug_str     0x0000b22a      0xf7e CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/tusb.c.obj
+ .debug_str     0x0000b22a      0x667 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/lib/tinyusb/src/common/tusb_fifo.c.obj
+ .debug_str     0x0000b22a      0x491 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_adc/adc.c.obj
+ .debug_str     0x0000b22a      0x5a8 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/hardware_exception/exception.c.obj
+ .debug_str     0x0000b22a      0xb44 freertos/libfreertos.a(queue.c.obj)
+ .debug_str     0x0000b22a     0x118e freertos/libfreertos.a(tasks.c.obj)
+ .debug_str     0x0000b22a      0xa40 freertos/libfreertos.a(timers.c.obj)
+ .debug_str     0x0000b22a      0x274 freertos/libfreertos.a(heap_3.c.obj)
+ .debug_str     0x0000b22a     0x11f1 freertos/libfreertos.a(port.c.obj)
+ .debug_str     0x0000b22a      0x2ce freertos/libfreertos.a(portasm.c.obj)
+ .debug_str     0x0000b22a      0x665 freertos/libfreertos.a(event_groups.c.obj)
+ .debug_str     0x0000b22a      0x34b freertos/libfreertos.a(list.c.obj)
 
 .debug_frame    0x00000000     0x43ac
  .debug_frame   0x00000000       0x88 CMakeFiles/firmware.dir/firmware.c.obj
@@ -5215,17 +5215,17 @@ LOAD linker stubs
  .debug_frame   0x00004370       0x3c C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp\libg.a(libc_a-reent.o)
 
 .debug_line_str
-                0x00000000      0x2d4
+                0x00000000      0x2c8
  .debug_line_str
-                0x00000000      0x2d4 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_aeabi_dcp.S.obj
-                                 0xc0 (size before relaxing)
+                0x00000000      0x2c8 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_double/double_aeabi_dcp.S.obj
+                                 0xb4 (size before relaxing)
  .debug_line_str
-                0x000002d4       0xb2 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_crt0/crt0.S.obj
+                0x000002c8       0xa6 CMakeFiles/firmware.dir/C_/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/pico_crt0/crt0.S.obj
  .debug_line_str
-                0x000002d4       0xd4 C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_addsubdf3.o)
+                0x000002c8       0xd4 C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_arm_addsubdf3.o)
  .debug_line_str
-                0x000002d4       0xcf C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_aeabi_uldivmod.o)
+                0x000002c8       0xcf C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_aeabi_uldivmod.o)
  .debug_line_str
-                0x000002d4       0xd3 C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_dvmd_tls.o)
+                0x000002c8       0xd3 C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp\libgcc.a(_dvmd_tls.o)
  .debug_line_str
-                0x000002d4       0xe9 C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp\libg.a(libc_a-memcpy.o)
+                0x000002c8       0xe9 C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp\libg.a(libc_a-memcpy.o)
