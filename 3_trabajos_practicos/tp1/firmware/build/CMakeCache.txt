@@ -334,6 +334,8 @@ firmware_IS_TOP_LEVEL:STATIC=ON
 firmware_SOURCE_DIR:STATIC=C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp1/firmware
 
 //Value Computed by CMake
+<<<<<<< HEAD
+=======
 freertos_BINARY_DIR:STATIC=C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp1/firmware/build/freertos
 
 //Value Computed by CMake
@@ -343,6 +345,7 @@ freertos_IS_TOP_LEVEL:STATIC=OFF
 freertos_SOURCE_DIR:STATIC=C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp1/freertos
 
 //Value Computed by CMake
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
 pico_sdk_BINARY_DIR:STATIC=C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp1/firmware/build/pico-sdk
 
 //Value Computed by CMake
@@ -473,7 +476,11 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
+<<<<<<< HEAD
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=101
+=======
 CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=102
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

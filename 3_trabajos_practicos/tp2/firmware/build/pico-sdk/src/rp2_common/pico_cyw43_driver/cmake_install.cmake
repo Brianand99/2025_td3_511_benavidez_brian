@@ -39,12 +39,20 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
+<<<<<<< HEAD
+  include("C:/Users/brian/Desktop/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp2/firmware/build/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cmake_install.cmake")
+=======
   include("C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp2/firmware/build/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cmake_install.cmake")
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
+<<<<<<< HEAD
+  file(WRITE "C:/Users/brian/Desktop/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp2/firmware/build/pico-sdk/src/rp2_common/pico_cyw43_driver/install_local_manifest.txt"
+=======
   file(WRITE "C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp2/firmware/build/pico-sdk/src/rp2_common/pico_cyw43_driver/install_local_manifest.txt"
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

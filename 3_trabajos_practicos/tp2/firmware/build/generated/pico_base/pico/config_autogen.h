@@ -4,7 +4,11 @@
 
 // based on PICO_CONFIG_HEADER_FILES:
 
+<<<<<<< HEAD
+#include "C:/Users/brian/.pico-sdk/sdk/2.1.1/src/boards/include/boards/pico2_w.h"
+=======
 #include "C:/Users/brian/.pico-sdk/sdk/2.1.1/src/boards/include/boards/pico2.h"
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
 #include "C:/Users/brian/.pico-sdk/sdk/2.1.1/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h"
 
 // based on PICO_RP2350_ARM_S_CONFIG_HEADER_FILES:

@@ -33,9 +33,12 @@ project(firmware C CXX ASM)
 # Initialise the Raspberry Pi Pico SDK
 pico_sdk_init()
 
+<<<<<<< HEAD
+=======
 # Add external FreeRTOS library
 add_subdirectory(${CMAKE_CURRENT_LIST_DIR}/../freertos ${CMAKE_BINARY_DIR}/freertos)
 
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
 # Add executable. Default name is the project name, version 0.1
 
 add_executable(firmware firmware.c )
@@ -49,7 +52,10 @@ pico_enable_stdio_usb(firmware 1)
 
 # Add the standard library to the build
 target_link_libraries(firmware
+<<<<<<< HEAD
+=======
         freertos
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
         pico_stdlib)
 
 # Add the standard include files to the build
@@ -59,7 +65,11 @@ target_include_directories(firmware PRIVATE
 
 # Add any user requested libraries
 target_link_libraries(firmware 
+<<<<<<< HEAD
+        pico_cyw43_arch_none
+=======
         
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
         )
 
 pico_add_extra_outputs(firmware)

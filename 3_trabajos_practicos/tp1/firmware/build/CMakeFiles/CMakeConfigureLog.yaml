@@ -5,17 +5,28 @@ events:
     kind: "message-v1"
     backtrace:
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeDetermineSystem.cmake:200 (message)"
+<<<<<<< HEAD
+      - "CMakeLists.txt:33 (project)"
+    message: |
+      The target system is: PICO -  - cortex-m33
+      The host system is: Windows - 10.0.26100 - AMD64
+=======
       - "CMakeLists.txt:31 (project)"
     message: |
       The target system is: PICO -  - cortex-m33
       The host system is: Windows - 10.0.19045 - AMD64
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
   -
     kind: "message-v1"
     backtrace:
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+<<<<<<< HEAD
+      - "CMakeLists.txt:33 (project)"
+=======
       - "CMakeLists.txt:31 (project)"
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
     message: |
       Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
       Compiler: C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-gcc.exe 
@@ -45,7 +56,11 @@ events:
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+<<<<<<< HEAD
+      - "CMakeLists.txt:33 (project)"
+=======
       - "CMakeLists.txt:31 (project)"
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
     message: |
       Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
       Compiler: C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-gcc.exe 
@@ -67,7 +82,11 @@ events:
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+<<<<<<< HEAD
+      - "CMakeLists.txt:33 (project)"
+=======
       - "CMakeLists.txt:31 (project)"
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
     message: |
       Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
       Compiler: C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-g++.exe 
@@ -97,7 +116,11 @@ events:
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+<<<<<<< HEAD
+      - "CMakeLists.txt:33 (project)"
+=======
       - "CMakeLists.txt:31 (project)"
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
     message: |
       Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
       Compiler: C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-g++.exe 
@@ -118,7 +141,11 @@ events:
     backtrace:
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:1237 (message)"
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeDetermineASMCompiler.cmake:135 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+<<<<<<< HEAD
+      - "CMakeLists.txt:33 (project)"
+=======
       - "CMakeLists.txt:31 (project)"
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
     message: |
       Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
       arm-none-eabi-gcc.exe (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) 14.2.1 20241119
@@ -131,12 +158,21 @@ events:
     backtrace:
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:74 (try_compile)"
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+<<<<<<< HEAD
+      - "CMakeLists.txt:33 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp1/firmware/build/CMakeFiles/CMakeScratch/TryCompile-zz9inu"
+      binary: "C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp1/firmware/build/CMakeFiles/CMakeScratch/TryCompile-zz9inu"
+=======
       - "CMakeLists.txt:31 (project)"
     checks:
       - "Detecting C compiler ABI info"
     directories:
       source: "C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp1/firmware/build/CMakeFiles/CMakeScratch/TryCompile-4vi3h6"
       binary: "C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp1/firmware/build/CMakeFiles/CMakeScratch/TryCompile-4vi3h6"
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
     cmakeVariables:
       CMAKE_C_FLAGS: "-mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse"
       CMAKE_C_FLAGS_DEBUG: "-Og -g"
@@ -146,10 +182,17 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
+<<<<<<< HEAD
+        Change Dir: 'C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp1/firmware/build/CMakeFiles/CMakeScratch/TryCompile-zz9inu'
+        
+        Run Build Command(s): C:/Users/brian/.pico-sdk/ninja/v1.12.1/ninja.exe -v cmTC_fcae4
+        [1/2] C:\\Users\\brian\\.pico-sdk\\toolchain\\14_2_Rel1\\bin\\arm-none-eabi-gcc.exe   -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse  -std=gnu11   -v -o CMakeFiles/cmTC_fcae4.dir/CMakeCCompilerABI.c.obj -c C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeCCompilerABI.c
+=======
         Change Dir: 'C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp1/firmware/build/CMakeFiles/CMakeScratch/TryCompile-4vi3h6'
         
         Run Build Command(s): C:/Users/brian/.pico-sdk/ninja/v1.12.1/ninja.exe -v cmTC_716d2
         [1/2] C:\\Users\\brian\\.pico-sdk\\toolchain\\14_2_Rel1\\bin\\arm-none-eabi-gcc.exe   -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse  -std=gnu11   -v -o CMakeFiles/cmTC_716d2.dir/CMakeCCompilerABI.c.obj -c C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeCCompilerABI.c
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
         Using built-in specs.
         COLLECT_GCC=C:\\Users\\brian\\.pico-sdk\\toolchain\\14_2_Rel1\\bin\\arm-none-eabi-gcc.exe
         Target: arm-none-eabi
@@ -157,8 +200,13 @@ events:
         Thread model: single
         Supported LTO compression algorithms: zlib
         gcc version 14.2.1 20241119 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) 
+<<<<<<< HEAD
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_fcae4.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_fcae4.dir/'
+         C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/cc1.exe -quiet -v -imultilib thumb/v8-m.main+fp/softfp -iprefix C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/ -isysroot C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -D__USES_INITFINI__ C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_fcae4.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=cortex-m33 -mthumb -mfloat-abi=softfp -mcmse -mlibarch=armv8-m.main+dsp+fp -march=armv8-m.main+dsp+fp -std=gnu11 -version -o C:\\Users\\brian\\AppData\\Local\\Temp\\ccAUrq1U.s
+=======
         COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_716d2.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_716d2.dir/'
          C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/cc1.exe -quiet -v -imultilib thumb/v8-m.main+fp/softfp -iprefix C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/ -isysroot C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -D__USES_INITFINI__ C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_716d2.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=cortex-m33 -mthumb -mfloat-abi=softfp -mcmse -mlibarch=armv8-m.main+dsp+fp -march=armv8-m.main+dsp+fp -std=gnu11 -version -o C:\\Users\\brian\\AppData\\Local\\Temp\\ccId0TAg.s
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
         GNU C11 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) version 14.2.1 20241119 (arm-none-eabi)
         	compiled by GNU C version 9.3-win32 20200320, GMP version 6.2.1, MPFR version 3.1.6, MPC version 1.0.3, isl version isl-0.15-1-g835ea3a-GMP
         
@@ -175,6 +223,15 @@ events:
          C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/include
         End of search list.
         Compiler executable checksum: 63ce4b303c7eb47a24bbf869f5c70b36
+<<<<<<< HEAD
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_fcae4.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_fcae4.dir/'
+         C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv8-m.main+dsp+fp -mfloat-abi=softfp -meabi=5 -o CMakeFiles/cmTC_fcae4.dir/CMakeCCompilerABI.c.obj C:\\Users\\brian\\AppData\\Local\\Temp\\ccAUrq1U.s
+        GNU assembler version 2.43.1 (arm-none-eabi) using BFD version (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) 2.43.1.20241119
+        COMPILER_PATH=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/
+        LIBRARY_PATH=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/\x0d
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_fcae4.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_fcae4.dir/CMakeCCompilerABI.c.'\x0d
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\brian\\.pico-sdk\\toolchain\\14_2_Rel1\\bin\\arm-none-eabi-gcc.exe -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse -Wl,--build-id=none -nostdlib -v CMakeFiles/cmTC_fcae4.dir/CMakeCCompilerABI.c.obj -o cmTC_fcae4.elf   && cd ."
+=======
         COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_716d2.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_716d2.dir/'
          C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv8-m.main+dsp+fp -mfloat-abi=softfp -meabi=5 -o CMakeFiles/cmTC_716d2.dir/CMakeCCompilerABI.c.obj C:\\Users\\brian\\AppData\\Local\\Temp\\ccId0TAg.s
         GNU assembler version 2.43.1 (arm-none-eabi) using BFD version (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) 2.43.1.20241119
@@ -182,6 +239,7 @@ events:
         LIBRARY_PATH=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/\x0d
         COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_716d2.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_716d2.dir/CMakeCCompilerABI.c.'\x0d
         [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Users\\brian\\.pico-sdk\\toolchain\\14_2_Rel1\\bin\\arm-none-eabi-gcc.exe -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse -Wl,--build-id=none -nostdlib -v CMakeFiles/cmTC_716d2.dir/CMakeCCompilerABI.c.obj -o cmTC_716d2.elf   && cd ."
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
         Using built-in specs.
         COLLECT_GCC=C:\\Users\\brian\\.pico-sdk\\toolchain\\14_2_Rel1\\bin\\arm-none-eabi-gcc.exe
         COLLECT_LTO_WRAPPER=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper.exe
@@ -192,10 +250,17 @@ events:
         gcc version 14.2.1 20241119 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) 
         COMPILER_PATH=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/
+<<<<<<< HEAD
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_fcae4.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_fcae4.elf.'
+         C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/collect2.exe -plugin C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/liblto_plugin.dll -plugin-opt=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\brian\\AppData\\Local\\Temp\\ccUOQHa5.res --sysroot=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -X -o cmTC_fcae4.elf -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1 -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_fcae4.dir/CMakeCCompilerABI.c.obj\x0d
+        C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/ld.exe: warning: cannot find entry symbol _start; defaulting to 00008000\x0d
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_fcae4.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_fcae4.elf.'\x0d
+=======
         COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_716d2.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_716d2.elf.'
          C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/collect2.exe -plugin C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/liblto_plugin.dll -plugin-opt=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\brian\\AppData\\Local\\Temp\\ccspv1Sk.res --sysroot=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -X -o cmTC_716d2.elf -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1 -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_716d2.dir/CMakeCCompilerABI.c.obj\x0d
         C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/ld.exe: warning: cannot find entry symbol _start; defaulting to 00008000\x0d
         COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_716d2.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_716d2.elf.'\x0d
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
         
       exitCode: 0
   -
@@ -203,7 +268,11 @@ events:
     backtrace:
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:182 (message)"
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+<<<<<<< HEAD
+      - "CMakeLists.txt:33 (project)"
+=======
       - "CMakeLists.txt:31 (project)"
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
     message: |
       Parsed C implicit include dir info: rv=done
         found start of include info
@@ -223,15 +292,26 @@ events:
     backtrace:
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:218 (message)"
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+<<<<<<< HEAD
+      - "CMakeLists.txt:33 (project)"
+=======
       - "CMakeLists.txt:31 (project)"
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
     message: |
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?))("|,| |$)]
+<<<<<<< HEAD
+        ignore line: [Change Dir: 'C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp1/firmware/build/CMakeFiles/CMakeScratch/TryCompile-zz9inu']
+        ignore line: []
+        ignore line: [Run Build Command(s): C:/Users/brian/.pico-sdk/ninja/v1.12.1/ninja.exe -v cmTC_fcae4]
+        ignore line: [[1/2] C:\\Users\\brian\\.pico-sdk\\toolchain\\14_2_Rel1\\bin\\arm-none-eabi-gcc.exe   -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse  -std=gnu11   -v -o CMakeFiles/cmTC_fcae4.dir/CMakeCCompilerABI.c.obj -c C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeCCompilerABI.c]
+=======
         ignore line: [Change Dir: 'C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp1/firmware/build/CMakeFiles/CMakeScratch/TryCompile-4vi3h6']
         ignore line: []
         ignore line: [Run Build Command(s): C:/Users/brian/.pico-sdk/ninja/v1.12.1/ninja.exe -v cmTC_716d2]
         ignore line: [[1/2] C:\\Users\\brian\\.pico-sdk\\toolchain\\14_2_Rel1\\bin\\arm-none-eabi-gcc.exe   -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse  -std=gnu11   -v -o CMakeFiles/cmTC_716d2.dir/CMakeCCompilerABI.c.obj -c C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeCCompilerABI.c]
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\Users\\brian\\.pico-sdk\\toolchain\\14_2_Rel1\\bin\\arm-none-eabi-gcc.exe]
         ignore line: [Target: arm-none-eabi]
@@ -239,8 +319,13 @@ events:
         ignore line: [Thread model: single]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 14.2.1 20241119 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) ]
+<<<<<<< HEAD
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_fcae4.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_fcae4.dir/']
+        ignore line: [ C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/cc1.exe -quiet -v -imultilib thumb/v8-m.main+fp/softfp -iprefix C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/ -isysroot C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -D__USES_INITFINI__ C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_fcae4.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=cortex-m33 -mthumb -mfloat-abi=softfp -mcmse -mlibarch=armv8-m.main+dsp+fp -march=armv8-m.main+dsp+fp -std=gnu11 -version -o C:\\Users\\brian\\AppData\\Local\\Temp\\ccAUrq1U.s]
+=======
         ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_716d2.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_716d2.dir/']
         ignore line: [ C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/cc1.exe -quiet -v -imultilib thumb/v8-m.main+fp/softfp -iprefix C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/ -isysroot C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -D__USES_INITFINI__ C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_716d2.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=cortex-m33 -mthumb -mfloat-abi=softfp -mcmse -mlibarch=armv8-m.main+dsp+fp -march=armv8-m.main+dsp+fp -std=gnu11 -version -o C:\\Users\\brian\\AppData\\Local\\Temp\\ccId0TAg.s]
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
         ignore line: [GNU C11 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) version 14.2.1 20241119 (arm-none-eabi)]
         ignore line: [	compiled by GNU C version 9.3-win32 20200320  GMP version 6.2.1  MPFR version 3.1.6  MPC version 1.0.3  isl version isl-0.15-1-g835ea3a-GMP]
         ignore line: []
@@ -257,8 +342,13 @@ events:
         ignore line: [ C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 63ce4b303c7eb47a24bbf869f5c70b36]
+<<<<<<< HEAD
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_fcae4.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_fcae4.dir/']
+        ignore line: [ C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv8-m.main+dsp+fp -mfloat-abi=softfp -meabi=5 -o CMakeFiles/cmTC_fcae4.dir/CMakeCCompilerABI.c.obj C:\\Users\\brian\\AppData\\Local\\Temp\\ccAUrq1U.s]
+=======
         ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_716d2.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_716d2.dir/']
         ignore line: [ C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv8-m.main+dsp+fp -mfloat-abi=softfp -meabi=5 -o CMakeFiles/cmTC_716d2.dir/CMakeCCompilerABI.c.obj C:\\Users\\brian\\AppData\\Local\\Temp\\ccId0TAg.s]
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
         ignore line: [GNU assembler version 2.43.1 (arm-none-eabi) using BFD version (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) 2.43.1.20241119]
         ignore line: [COMPILER_PATH=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/]
         ignore line: [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/]
@@ -270,8 +360,13 @@ events:
         ignore line: [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/]
         ignore line: [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/]
         ignore line: [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/\x0d]
+<<<<<<< HEAD
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_fcae4.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_fcae4.dir/CMakeCCompilerABI.c.'\x0d]
+        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\brian\\.pico-sdk\\toolchain\\14_2_Rel1\\bin\\arm-none-eabi-gcc.exe -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse -Wl --build-id=none -nostdlib -v CMakeFiles/cmTC_fcae4.dir/CMakeCCompilerABI.c.obj -o cmTC_fcae4.elf   && cd ."]
+=======
         ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_716d2.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_716d2.dir/CMakeCCompilerABI.c.'\x0d]
         ignore line: [[2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Users\\brian\\.pico-sdk\\toolchain\\14_2_Rel1\\bin\\arm-none-eabi-gcc.exe -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse -Wl --build-id=none -nostdlib -v CMakeFiles/cmTC_716d2.dir/CMakeCCompilerABI.c.obj -o cmTC_716d2.elf   && cd ."]
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\Users\\brian\\.pico-sdk\\toolchain\\14_2_Rel1\\bin\\arm-none-eabi-gcc.exe]
         ignore line: [COLLECT_LTO_WRAPPER=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper.exe]
@@ -290,17 +385,30 @@ events:
         ignore line: [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/]
         ignore line: [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/]
         ignore line: [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/]
+<<<<<<< HEAD
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_fcae4.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_fcae4.elf.']
+        link line: [ C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/collect2.exe -plugin C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/liblto_plugin.dll -plugin-opt=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\brian\\AppData\\Local\\Temp\\ccUOQHa5.res --sysroot=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -X -o cmTC_fcae4.elf -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1 -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_fcae4.dir/CMakeCCompilerABI.c.obj\x0d]
+=======
         ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_716d2.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_716d2.elf.']
         link line: [ C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/collect2.exe -plugin C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/liblto_plugin.dll -plugin-opt=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\brian\\AppData\\Local\\Temp\\ccspv1Sk.res --sysroot=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -X -o cmTC_716d2.elf -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1 -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_716d2.dir/CMakeCCompilerABI.c.obj\x0d]
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
           arg [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper.exe] ==> ignore
+<<<<<<< HEAD
+          arg [-plugin-opt=-fresolution=C:\\Users\\brian\\AppData\\Local\\Temp\\ccUOQHa5.res] ==> ignore
+          arg [--sysroot=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi] ==> ignore
+          arg [-X] ==> ignore
+          arg [-o] ==> ignore
+          arg [cmTC_fcae4.elf] ==> ignore
+=======
           arg [-plugin-opt=-fresolution=C:\\Users\\brian\\AppData\\Local\\Temp\\ccspv1Sk.res] ==> ignore
           arg [--sysroot=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi] ==> ignore
           arg [-X] ==> ignore
           arg [-o] ==> ignore
           arg [cmTC_716d2.elf] ==> ignore
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
           arg [-LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp] ==> dir [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp]
           arg [-LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp] ==> dir [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp]
           arg [-LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp] ==> dir [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp]
@@ -309,10 +417,17 @@ events:
           arg [-LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib] ==> dir [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib]
           arg [-LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib] ==> dir [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib]
           arg [--build-id=none] ==> ignore
+<<<<<<< HEAD
+          arg [CMakeFiles/cmTC_fcae4.dir/CMakeCCompilerABI.c.obj] ==> ignore
+        ignore line: [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/ld.exe: warning: cannot find entry symbol _start]
+        ignore line: [ defaulting to 00008000\x0d]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_fcae4.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_fcae4.elf.'\x0d]
+=======
           arg [CMakeFiles/cmTC_716d2.dir/CMakeCCompilerABI.c.obj] ==> ignore
         ignore line: [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/ld.exe: warning: cannot find entry symbol _start]
         ignore line: [ defaulting to 00008000\x0d]
         ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_716d2.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_716d2.elf.'\x0d]
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
         ignore line: []
         ignore line: []
         collapse library dir [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp] ==> [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp]
@@ -333,12 +448,21 @@ events:
     backtrace:
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:74 (try_compile)"
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+<<<<<<< HEAD
+      - "CMakeLists.txt:33 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp1/firmware/build/CMakeFiles/CMakeScratch/TryCompile-zrjzfx"
+      binary: "C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp1/firmware/build/CMakeFiles/CMakeScratch/TryCompile-zrjzfx"
+=======
       - "CMakeLists.txt:31 (project)"
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
       source: "C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp1/firmware/build/CMakeFiles/CMakeScratch/TryCompile-dobgb5"
       binary: "C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp1/firmware/build/CMakeFiles/CMakeScratch/TryCompile-dobgb5"
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
     cmakeVariables:
       CMAKE_CXX_FLAGS: "-mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse"
       CMAKE_CXX_FLAGS_DEBUG: "-Og -g"
@@ -349,10 +473,17 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
+<<<<<<< HEAD
+        Change Dir: 'C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp1/firmware/build/CMakeFiles/CMakeScratch/TryCompile-zrjzfx'
+        
+        Run Build Command(s): C:/Users/brian/.pico-sdk/ninja/v1.12.1/ninja.exe -v cmTC_1db12
+        [1/2] C:\\Users\\brian\\.pico-sdk\\toolchain\\14_2_Rel1\\bin\\arm-none-eabi-g++.exe   -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse  -std=gnu++17   -v -o CMakeFiles/cmTC_1db12.dir/CMakeCXXCompilerABI.cpp.obj -c C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeCXXCompilerABI.cpp
+=======
         Change Dir: 'C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp1/firmware/build/CMakeFiles/CMakeScratch/TryCompile-dobgb5'
         
         Run Build Command(s): C:/Users/brian/.pico-sdk/ninja/v1.12.1/ninja.exe -v cmTC_b4642
         [1/2] C:\\Users\\brian\\.pico-sdk\\toolchain\\14_2_Rel1\\bin\\arm-none-eabi-g++.exe   -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse  -std=gnu++17   -v -o CMakeFiles/cmTC_b4642.dir/CMakeCXXCompilerABI.cpp.obj -c C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeCXXCompilerABI.cpp
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
         Using built-in specs.
         COLLECT_GCC=C:\\Users\\brian\\.pico-sdk\\toolchain\\14_2_Rel1\\bin\\arm-none-eabi-g++.exe
         Target: arm-none-eabi
@@ -360,8 +491,13 @@ events:
         Thread model: single
         Supported LTO compression algorithms: zlib
         gcc version 14.2.1 20241119 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) 
+<<<<<<< HEAD
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu++17' '-v' '-o' 'CMakeFiles/cmTC_1db12.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_1db12.dir/'
+         C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/cc1plus.exe -quiet -v -imultilib thumb/v8-m.main+fp/softfp -iprefix C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/ -isysroot C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -D__USES_INITFINI__ C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_1db12.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mcpu=cortex-m33 -mthumb -mfloat-abi=softfp -mcmse -mlibarch=armv8-m.main+dsp+fp -march=armv8-m.main+dsp+fp -std=gnu++17 -version -o C:\\Users\\brian\\AppData\\Local\\Temp\\ccxMVjNw.s
+=======
         COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu++17' '-v' '-o' 'CMakeFiles/cmTC_b4642.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_b4642.dir/'
          C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/cc1plus.exe -quiet -v -imultilib thumb/v8-m.main+fp/softfp -iprefix C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/ -isysroot C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -D__USES_INITFINI__ C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_b4642.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mcpu=cortex-m33 -mthumb -mfloat-abi=softfp -mcmse -mlibarch=armv8-m.main+dsp+fp -march=armv8-m.main+dsp+fp -std=gnu++17 -version -o C:\\Users\\brian\\AppData\\Local\\Temp\\ccUDcJVx.s
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
         GNU C++17 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) version 14.2.1 20241119 (arm-none-eabi)
         	compiled by GNU C version 9.3-win32 20200320, GMP version 6.2.1, MPFR version 3.1.6, MPC version 1.0.3, isl version isl-0.15-1-g835ea3a-GMP
         
@@ -384,6 +520,15 @@ events:
          C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/include
         End of search list.
         Compiler executable checksum: dad18755456eb98fd3f9411f1449dfa2
+<<<<<<< HEAD
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu++17' '-v' '-o' 'CMakeFiles/cmTC_1db12.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_1db12.dir/'
+         C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv8-m.main+dsp+fp -mfloat-abi=softfp -meabi=5 -o CMakeFiles/cmTC_1db12.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\brian\\AppData\\Local\\Temp\\ccxMVjNw.s
+        GNU assembler version 2.43.1 (arm-none-eabi) using BFD version (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) 2.43.1.20241119
+        COMPILER_PATH=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/
+        LIBRARY_PATH=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/\x0d
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu++17' '-v' '-o' 'CMakeFiles/cmTC_1db12.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_1db12.dir/CMakeCXXCompilerABI.cpp.'\x0d
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\brian\\.pico-sdk\\toolchain\\14_2_Rel1\\bin\\arm-none-eabi-g++.exe -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse -Wl,--build-id=none -nostdlib -v CMakeFiles/cmTC_1db12.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_1db12.elf   && cd ."
+=======
         COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu++17' '-v' '-o' 'CMakeFiles/cmTC_b4642.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_b4642.dir/'
          C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv8-m.main+dsp+fp -mfloat-abi=softfp -meabi=5 -o CMakeFiles/cmTC_b4642.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\brian\\AppData\\Local\\Temp\\ccUDcJVx.s
         GNU assembler version 2.43.1 (arm-none-eabi) using BFD version (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) 2.43.1.20241119
@@ -391,6 +536,7 @@ events:
         LIBRARY_PATH=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/\x0d
         COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu++17' '-v' '-o' 'CMakeFiles/cmTC_b4642.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_b4642.dir/CMakeCXXCompilerABI.cpp.'\x0d
         [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Users\\brian\\.pico-sdk\\toolchain\\14_2_Rel1\\bin\\arm-none-eabi-g++.exe -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse -Wl,--build-id=none -nostdlib -v CMakeFiles/cmTC_b4642.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_b4642.elf   && cd ."
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
         Using built-in specs.
         COLLECT_GCC=C:\\Users\\brian\\.pico-sdk\\toolchain\\14_2_Rel1\\bin\\arm-none-eabi-g++.exe
         COLLECT_LTO_WRAPPER=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper.exe
@@ -401,10 +547,17 @@ events:
         gcc version 14.2.1 20241119 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) 
         COMPILER_PATH=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/;C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/
+<<<<<<< HEAD
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_1db12.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_1db12.elf.'
+         C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/collect2.exe -plugin C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/liblto_plugin.dll -plugin-opt=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\brian\\AppData\\Local\\Temp\\ccN62IGI.res --sysroot=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -X -o cmTC_1db12.elf -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1 -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_1db12.dir/CMakeCXXCompilerABI.cpp.obj\x0d
+        C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/ld.exe: warning: cannot find entry symbol _start; defaulting to 00008000\x0d
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_1db12.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_1db12.elf.'\x0d
+=======
         COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_b4642.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_b4642.elf.'
          C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/collect2.exe -plugin C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/liblto_plugin.dll -plugin-opt=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\brian\\AppData\\Local\\Temp\\ccovS2VF.res --sysroot=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -X -o cmTC_b4642.elf -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1 -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_b4642.dir/CMakeCXXCompilerABI.cpp.obj\x0d
         C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/ld.exe: warning: cannot find entry symbol _start; defaulting to 00008000\x0d
         COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_b4642.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_b4642.elf.'\x0d
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
         
       exitCode: 0
   -
@@ -412,7 +565,11 @@ events:
     backtrace:
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:182 (message)"
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+<<<<<<< HEAD
+      - "CMakeLists.txt:33 (project)"
+=======
       - "CMakeLists.txt:31 (project)"
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
     message: |
       Parsed CXX implicit include dir info: rv=done
         found start of include info
@@ -438,15 +595,26 @@ events:
     backtrace:
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:218 (message)"
       - "C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+<<<<<<< HEAD
+      - "CMakeLists.txt:33 (project)"
+=======
       - "CMakeLists.txt:31 (project)"
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
     message: |
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?))("|,| |$)]
+<<<<<<< HEAD
+        ignore line: [Change Dir: 'C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp1/firmware/build/CMakeFiles/CMakeScratch/TryCompile-zrjzfx']
+        ignore line: []
+        ignore line: [Run Build Command(s): C:/Users/brian/.pico-sdk/ninja/v1.12.1/ninja.exe -v cmTC_1db12]
+        ignore line: [[1/2] C:\\Users\\brian\\.pico-sdk\\toolchain\\14_2_Rel1\\bin\\arm-none-eabi-g++.exe   -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse  -std=gnu++17   -v -o CMakeFiles/cmTC_1db12.dir/CMakeCXXCompilerABI.cpp.obj -c C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeCXXCompilerABI.cpp]
+=======
         ignore line: [Change Dir: 'C:/Users/brian/OneDrive/Documentos/GitHub/2025_td3_511_benavidez_brian/3_trabajos_practicos/tp1/firmware/build/CMakeFiles/CMakeScratch/TryCompile-dobgb5']
         ignore line: []
         ignore line: [Run Build Command(s): C:/Users/brian/.pico-sdk/ninja/v1.12.1/ninja.exe -v cmTC_b4642]
         ignore line: [[1/2] C:\\Users\\brian\\.pico-sdk\\toolchain\\14_2_Rel1\\bin\\arm-none-eabi-g++.exe   -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse  -std=gnu++17   -v -o CMakeFiles/cmTC_b4642.dir/CMakeCXXCompilerABI.cpp.obj -c C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeCXXCompilerABI.cpp]
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\Users\\brian\\.pico-sdk\\toolchain\\14_2_Rel1\\bin\\arm-none-eabi-g++.exe]
         ignore line: [Target: arm-none-eabi]
@@ -454,8 +622,13 @@ events:
         ignore line: [Thread model: single]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 14.2.1 20241119 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) ]
+<<<<<<< HEAD
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu++17' '-v' '-o' 'CMakeFiles/cmTC_1db12.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_1db12.dir/']
+        ignore line: [ C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/cc1plus.exe -quiet -v -imultilib thumb/v8-m.main+fp/softfp -iprefix C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/ -isysroot C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -D__USES_INITFINI__ C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_1db12.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mcpu=cortex-m33 -mthumb -mfloat-abi=softfp -mcmse -mlibarch=armv8-m.main+dsp+fp -march=armv8-m.main+dsp+fp -std=gnu++17 -version -o C:\\Users\\brian\\AppData\\Local\\Temp\\ccxMVjNw.s]
+=======
         ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu++17' '-v' '-o' 'CMakeFiles/cmTC_b4642.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_b4642.dir/']
         ignore line: [ C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/cc1plus.exe -quiet -v -imultilib thumb/v8-m.main+fp/softfp -iprefix C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/ -isysroot C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -D__USES_INITFINI__ C:/Users/brian/.pico-sdk/cmake/v3.31.5/share/cmake-3.31/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_b4642.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mcpu=cortex-m33 -mthumb -mfloat-abi=softfp -mcmse -mlibarch=armv8-m.main+dsp+fp -march=armv8-m.main+dsp+fp -std=gnu++17 -version -o C:\\Users\\brian\\AppData\\Local\\Temp\\ccUDcJVx.s]
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
         ignore line: [GNU C++17 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) version 14.2.1 20241119 (arm-none-eabi)]
         ignore line: [	compiled by GNU C version 9.3-win32 20200320  GMP version 6.2.1  MPFR version 3.1.6  MPC version 1.0.3  isl version isl-0.15-1-g835ea3a-GMP]
         ignore line: []
@@ -478,8 +651,13 @@ events:
         ignore line: [ C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: dad18755456eb98fd3f9411f1449dfa2]
+<<<<<<< HEAD
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu++17' '-v' '-o' 'CMakeFiles/cmTC_1db12.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_1db12.dir/']
+        ignore line: [ C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv8-m.main+dsp+fp -mfloat-abi=softfp -meabi=5 -o CMakeFiles/cmTC_1db12.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\brian\\AppData\\Local\\Temp\\ccxMVjNw.s]
+=======
         ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu++17' '-v' '-o' 'CMakeFiles/cmTC_b4642.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_b4642.dir/']
         ignore line: [ C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv8-m.main+dsp+fp -mfloat-abi=softfp -meabi=5 -o CMakeFiles/cmTC_b4642.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\brian\\AppData\\Local\\Temp\\ccUDcJVx.s]
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
         ignore line: [GNU assembler version 2.43.1 (arm-none-eabi) using BFD version (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) 2.43.1.20241119]
         ignore line: [COMPILER_PATH=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/]
         ignore line: [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/]
@@ -491,8 +669,13 @@ events:
         ignore line: [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/]
         ignore line: [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/]
         ignore line: [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/\x0d]
+<<<<<<< HEAD
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu++17' '-v' '-o' 'CMakeFiles/cmTC_1db12.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_1db12.dir/CMakeCXXCompilerABI.cpp.'\x0d]
+        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Users\\brian\\.pico-sdk\\toolchain\\14_2_Rel1\\bin\\arm-none-eabi-g++.exe -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse -Wl --build-id=none -nostdlib -v CMakeFiles/cmTC_1db12.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_1db12.elf   && cd ."]
+=======
         ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu++17' '-v' '-o' 'CMakeFiles/cmTC_b4642.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_b4642.dir/CMakeCXXCompilerABI.cpp.'\x0d]
         ignore line: [[2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Users\\brian\\.pico-sdk\\toolchain\\14_2_Rel1\\bin\\arm-none-eabi-g++.exe -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse -Wl --build-id=none -nostdlib -v CMakeFiles/cmTC_b4642.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_b4642.elf   && cd ."]
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\Users\\brian\\.pico-sdk\\toolchain\\14_2_Rel1\\bin\\arm-none-eabi-g++.exe]
         ignore line: [COLLECT_LTO_WRAPPER=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper.exe]
@@ -511,17 +694,30 @@ events:
         ignore line: [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/]
         ignore line: [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/]
         ignore line: [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/]
+<<<<<<< HEAD
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_1db12.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_1db12.elf.']
+        link line: [ C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/collect2.exe -plugin C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/liblto_plugin.dll -plugin-opt=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\brian\\AppData\\Local\\Temp\\ccN62IGI.res --sysroot=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -X -o cmTC_1db12.elf -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1 -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_1db12.dir/CMakeCXXCompilerABI.cpp.obj\x0d]
+=======
         ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_b4642.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_b4642.elf.']
         link line: [ C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/collect2.exe -plugin C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/liblto_plugin.dll -plugin-opt=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\brian\\AppData\\Local\\Temp\\ccovS2VF.res --sysroot=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -X -o cmTC_b4642.elf -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1 -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib -LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_b4642.dir/CMakeCXXCompilerABI.cpp.obj\x0d]
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
           arg [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper.exe] ==> ignore
+<<<<<<< HEAD
+          arg [-plugin-opt=-fresolution=C:\\Users\\brian\\AppData\\Local\\Temp\\ccN62IGI.res] ==> ignore
+          arg [--sysroot=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi] ==> ignore
+          arg [-X] ==> ignore
+          arg [-o] ==> ignore
+          arg [cmTC_1db12.elf] ==> ignore
+=======
           arg [-plugin-opt=-fresolution=C:\\Users\\brian\\AppData\\Local\\Temp\\ccovS2VF.res] ==> ignore
           arg [--sysroot=C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi] ==> ignore
           arg [-X] ==> ignore
           arg [-o] ==> ignore
           arg [cmTC_b4642.elf] ==> ignore
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
           arg [-LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp] ==> dir [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp]
           arg [-LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp] ==> dir [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp]
           arg [-LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp] ==> dir [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp]
@@ -530,10 +726,17 @@ events:
           arg [-LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib] ==> dir [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib]
           arg [-LC:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib] ==> dir [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib]
           arg [--build-id=none] ==> ignore
+<<<<<<< HEAD
+          arg [CMakeFiles/cmTC_1db12.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
+        ignore line: [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/ld.exe: warning: cannot find entry symbol _start]
+        ignore line: [ defaulting to 00008000\x0d]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_1db12.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_1db12.elf.'\x0d]
+=======
           arg [CMakeFiles/cmTC_b4642.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
         ignore line: [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/ld.exe: warning: cannot find entry symbol _start]
         ignore line: [ defaulting to 00008000\x0d]
         ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_b4642.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_b4642.elf.'\x0d]
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
         ignore line: []
         ignore line: []
         collapse library dir [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp] ==> [C:/Users/brian/.pico-sdk/toolchain/14_2_Rel1/lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp]

@@ -23,12 +23,24 @@ if (EXISTS ${picoVscode})
     include(${picoVscode})
 endif()
 # ====================================================================================
+<<<<<<< HEAD
+set(PICO_BOARD pico2_w CACHE STRING "Board type")
+=======
 set(PICO_BOARD pico2 CACHE STRING "Board type")
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
 
 # Pull in Raspberry Pi Pico SDK (must be before project)
 include(pico_sdk_import.cmake)
 
+<<<<<<< HEAD
 project(firmware C CXX ASM)
+=======
+<<<<<<<< HEAD:3_trabajos_practicos/tp2/I2C_Scaner/CMakeLists.txt
+project(I2C_Scaner C CXX ASM)
+========
+project(firmware C CXX ASM)
+>>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0:3_trabajos_practicos/tp2/firmware/CMakeLists.txt
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
 
 # Initialise the Raspberry Pi Pico SDK
 pico_sdk_init()
@@ -38,6 +50,37 @@ add_subdirectory(${CMAKE_CURRENT_LIST_DIR}/../freertos ${CMAKE_BINARY_DIR}/freer
 
 # Add executable. Default name is the project name, version 0.1
 
+<<<<<<< HEAD
+=======
+<<<<<<<< HEAD:3_trabajos_practicos/tp2/I2C_Scaner/CMakeLists.txt
+add_executable(I2C_Scaner I2C_Scaner.c )
+
+pico_set_program_name(I2C_Scaner "I2C_Scaner")
+pico_set_program_version(I2C_Scaner "0.1")
+
+# Modify the below lines to enable/disable output over UART/USB
+pico_enable_stdio_uart(I2C_Scaner 0)
+pico_enable_stdio_usb(I2C_Scaner 1)
+
+# Add the standard library to the build
+target_link_libraries(I2C_Scaner
+
+        pico_stdlib)
+
+# Add the standard include files to the build
+target_include_directories(I2C_Scaner PRIVATE
+        ${CMAKE_CURRENT_LIST_DIR}
+)
+
+# Add any user requested libraries
+target_link_libraries(I2C_Scaner 
+        hardware_i2c
+        
+        )
+
+pico_add_extra_outputs(I2C_Scaner)
+========
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
 add_executable(firmware firmware.c )
 
 pico_set_program_name(firmware "firmware")
@@ -49,14 +92,29 @@ pico_enable_stdio_usb(firmware 1)
 
 # Add the standard library to the build
 target_link_libraries(firmware
+<<<<<<< HEAD
+        pico_stdlib)
+=======
     hardware_adc 
     freertos
     pico_stdlib)
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
 
 # Add the standard include files to the build
 target_include_directories(firmware PRIVATE
         ${CMAKE_CURRENT_LIST_DIR}
 )
 
+<<<<<<< HEAD
+# Add any user requested libraries
+target_link_libraries(firmware
+    hardware_adc 
+    freertos
+        )
+
 pico_add_extra_outputs(firmware)
+=======
+pico_add_extra_outputs(firmware)
+>>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0:3_trabajos_practicos/tp2/firmware/CMakeLists.txt
+>>>>>>> d2f0005967735bef039a6d9cd52b00b7d3cb66f0
 
